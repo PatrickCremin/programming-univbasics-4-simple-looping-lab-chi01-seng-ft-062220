@@ -7,4 +7,11 @@ while x < 5 do
 end 
 end 
 
-
+def loop_message_n_times(string,num)
+  string= "Hello Moon"
+  num = 5
+  while x < num do
+    puts string
+    x = x + 1
+  end
+end
