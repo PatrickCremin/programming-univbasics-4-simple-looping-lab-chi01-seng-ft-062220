@@ -14,5 +14,6 @@ def loop_message_n_times(string,num)
   while x < num do
     puts string
     x = x + 1
+    elsif x 
   end
 end
